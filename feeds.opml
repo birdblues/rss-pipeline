@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>Macro Investment Feeds</title></head>
+  <body>
+
+    <outline text="Central Banks">
+      <outline text="Federal Reserve" xmlUrl="https://www.federalreserve.gov/feeds/press_all.xml"/>
+      <outline text="Fed Speeches" xmlUrl="https://www.federalreserve.gov/feeds/speeches.xml"/>
+      <outline text="ECB" xmlUrl="https://www.ecb.europa.eu/rss/press.html"/>
+      <outline text="BOJ" xmlUrl="https://www.boj.or.jp/en/rss/whatsnew.xml"/>
+      <outline text="Bank of England" xmlUrl="https://www.bankofengland.co.uk/rss/news"/>
+      <outline text="St. Louis Fed" xmlUrl="https://news.research.stlouisfed.org/feed/"/>
+      <outline text="Dallas Fed" xmlUrl="https://www.dallasfed.org/rss/releases.xml"/>
+    </outline>
+
+    <outline text="International Orgs">
+      <outline text="BIS Press" xmlUrl="https://www.bis.org/doclist/all_pressrels.rss"/>
+      <outline text="BIS Speeches" xmlUrl="https://www.bis.org/doclist/cbspeeches.rss"/>
+    </outline>
+
+    <outline text="Economic Data">
+      <outline text="BLS" xmlUrl="https://www.bls.gov/feed/bls_latest.rss"/>
+      <outline text="BEA" xmlUrl="https://www.bea.gov/rss/rss.xml"/>
+      <outline text="EIA" xmlUrl="https://www.eia.gov/rss/todayinenergy.xml"/>
+    </outline>
+
+    <outline text="Markets">
+      <outline text="Bloomberg Markets" xmlUrl="https://feeds.bloomberg.com/markets/news.rss"/>
+      <outline text="CNBC" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html"/>
+      <outline text="Yahoo Finance" xmlUrl="https://finance.yahoo.com/rss/topstories"/>
+      <outline text="MarketWatch" xmlUrl="http://feeds.marketwatch.com/marketwatch/topstories/"/>
+      <outline text="Investing.com" xmlUrl="https://www.investing.com/rss/news.rss"/>
+    </outline>
+
+    <outline text="Korea">
+      <outline text="연합뉴스 경제" xmlUrl="https://www.yna.co.kr/rss/economy.xml"/>
+      <outline text="매일경제" xmlUrl="https://www.mk.co.kr/rss/30100041/"/>
+      <outline text="한국경제" xmlUrl="https://www.hankyung.com/feed/economy"/>
+      <outline text="조선비즈" xmlUrl="https://biz.chosun.com/arc/outboundfeeds/rss/?outputType=xml"/>
+      <outline text="머니투데이" xmlUrl="https://rss.mt.co.kr/mt_news.xml"/>
+    </outline>
+
+  </body>
+</opml>
