@@ -40,5 +40,10 @@
       <outline text="머니투데이" xmlUrl="https://rss.mt.co.kr/mt_news.xml"/>
     </outline>
 
+    <outline text="Wire Services">
+      <outline text="GlobeNewswire" xmlUrl="https://www.globenewswire.com/RssFeed/subjectcode/3-analyst"/>
+      <outline text="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/news-releases-list.rss"/>
+    </outline>
+
   </body>
 </opml>

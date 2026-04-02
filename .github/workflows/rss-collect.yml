@@ -2,7 +2,7 @@ name: RSS Collect
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매 시간
+    - cron: '*/30 * * * *'  # 30분마다
   workflow_dispatch:
 
 jobs:
